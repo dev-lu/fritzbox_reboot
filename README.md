@@ -10,3 +10,9 @@ For example:
 This will run the script from the opt folder every morning at 4:30.
 
 On Windows you can create a scheduled task, to run the script.
+
+Don't forget to install Python and the necessary modules to make the script work.
+
+Module installation with pip:
+`pip install python-decouple`
+`pip install requests`
