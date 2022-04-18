@@ -1,5 +1,5 @@
-# fritzbox_reboot
-Script to reboot Fritz!Box routers using TR-064 protocol
+# Fritz!Box / OpenSense / PfSense automatic reboot
+Script for rebooting Fritz!Box / OpenSense / PfSense routers using TR-064 protocol.
 
 You must create a new user who has permission to change Fritz!Box settings for the script to work.
 User and password are stored in the .env file by default. However, it is also possible to hardcode them in the script.
