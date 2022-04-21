@@ -5,7 +5,7 @@
 # - https://avm.de/service/schnittstellen/
 # - http://fritz.box:49000/tr64desc.xml
 # - https://wiki.fhem.de/wiki/FRITZBOX#TR-064
-# Author: dev-lu
+# Author: https://github.com/dev-lu
 #==============================================
 from decouple import config
 from requests.auth import HTTPDigestAuth
